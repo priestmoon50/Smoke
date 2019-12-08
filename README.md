@@ -1,2 +1,2 @@
 # Smoke
-Never give up.
+test 2
